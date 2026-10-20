@@ -1,6 +1,8 @@
 # Marktanalyse: Nebenbusiness-Ideen 2026 (Schweiz)
 
 > Stand: 20. Oktober 2026 · Profil siehe [README](../README.md) · Startplan: [02-startplan-90-tage.md](02-startplan-90-tage.md)
+>
+> **Grundannahme:** Du startest **ohne Netzwerk**. Es gibt also keine warmen Kontakte und keinen besonderen Branchenzugang, du erschliesst dir jeden Kunden selbst. Diese Annahme verändert vor allem, *wie* du an die ersten Kunden kommst ([Kapitel 7](#7-ohne-netzwerk-zu-den-ersten-kunden)).
 
 ## Inhalt
 
@@ -10,18 +12,19 @@
 4. [Trends 2026 mit echtem Potenzial](#4-trends-2026-mit-echtem-potenzial)
 5. [Die Long List: 65 geprüfte Ideen](#5-die-long-list-65-geprüfte-ideen)
 6. [Scoring der Finalisten](#6-scoring-der-finalisten)
-7. [Deep-Dive 🥇 KI-Automatisierung für eine KMU-Nische](#7-deep-dive--ki-automatisierung-für-eine-kmu-nische)
-8. [Deep-Dive 🥈 Lehrstellen- & Recruiting-Content](#8-deep-dive--lehrstellen---recruiting-content)
-9. [Deep-Dive 🥉 Micro-SaaS als Stufe 2](#9-deep-dive--micro-saas-als-stufe-2)
-10. [Weitere Bausteine & Wildcards](#10-weitere-bausteine--wildcards)
-11. [Recht, AHV & Steuern in der Schweiz](#11-recht-ahv--steuern-in-der-schweiz)
-12. [Quellen](#12-quellen)
+7. [Ohne Netzwerk zu den ersten Kunden](#7-ohne-netzwerk-zu-den-ersten-kunden)
+8. [Deep-Dive 🥇 KI-Automatisierung für lokale KMU](#8-deep-dive--ki-automatisierung-für-lokale-kmu)
+9. [Deep-Dive 🥈 Lehrstellen- & Recruiting-Content](#9-deep-dive--lehrstellen---recruiting-content)
+10. [Deep-Dive 🥉 Micro-SaaS als Stufe 2](#10-deep-dive--micro-saas-als-stufe-2)
+11. [Weitere Bausteine & Wildcards](#11-weitere-bausteine--wildcards)
+12. [Recht, AHV & Steuern in der Schweiz](#12-recht-ahv--steuern-in-der-schweiz)
+13. [Quellen](#13-quellen)
 
 ---
 
 ## 1. Vorgehen & Bewertungskriterien
 
-**Schritt 1 – Profil:** Über Rückfragen erfasst (Skills, Zeit, Kapital, Arbeitsweise, Ziel, Ort, Studium, Netzwerk, Interessen).
+**Schritt 1 – Profil:** Über Rückfragen erfasst (Skills, Zeit, Kapital, Arbeitsweise, Ziel, Ort, Studium, Interessen). Annahme: kein Netzwerk und keine warmen Kontakte.
 
 **Schritt 2 – Breite Sammlung:** 65 Ideen aus 9 Kategorien (Handel, digitale Produkte, Content, Online-Services, lokale B2B- und B2C-Services, Gigs, Gaming, Kapitalmodelle).
 
@@ -45,7 +48,7 @@
 | Nachfrage 2026 | 15 % | Gibt es belegbare, aktuelle Nachfrage (Daten)? |
 | Wenig Sättigung | 15 % | Wie voll ist der Markt in der Schweiz? |
 | Zeit-Fit | 10 % | Funktioniert es mit 5–10 Std./Woche neben dem Studium? |
-| Zeit bis zum ersten Franken | 5 % | Wie schnell kommt Geld rein? |
+| Zeit bis zum ersten Franken | 5 % | Wie schnell kommt Geld rein? Ohne Netzwerk zählt das besonders |
 | Lernwert | 5 % | Bringt es dich beruflich weiter? |
 | Risiko | 5 % | Wie gering sind Geld-, Haftungs- und Zeitrisiko? |
 | Startkosten | 5 % | Wie weit unter 200 CHF? |
@@ -60,11 +63,11 @@ Die meisten „Side-Hustle“-Listen im Netz sind für die USA oder Deutschland 
 
 1. **Hohe Opportunitätskosten.** Ein normaler Studentenjob zahlt in der Deutschschweiz ca. **22–30 CHF/h**, in Zürich/Basel/Genf ca. **25–35 CHF/h** ([lohncheck.ch](https://lohncheck.ch/de/lohn/diverses/student), [study-abroad.org](https://www.study-abroad.org/de/blog/ch-arbeiten-studium-leitfaden/)). Alles, was online in Dollar pro Stunde bezahlt wird (KI-Training, Umfragen, Clipping), fällt damit fast automatisch raus. **Dein Business muss mittelfristig klar über ~30 CHF/h liegen oder ein wachsendes Asset aufbauen.**
 2. **Hohe Preise = grosser Hebel.** Freelance-Webentwicklung kostet in der Schweiz typischerweise **80–200 CHF/h**, Agenturen **120–250 CHF/h** ([magicheidi.ch](https://magicheidi.ch/de/hourly-rates), [beyondweb.ch](https://www.beyondweb.ch/en/blog/was-kostet-eine-webseite-in-der-schweiz/)). Du kannst deutlich unter Agenturpreisen anbieten und trotzdem ein Vielfaches eines Studentenjobs verdienen. Gleichzeitig ist Arbeitszeit in KMU teuer, deshalb rechnet sich Automatisierung hier schneller als anderswo.
-3. **Vertrauen & lokale Netzwerke entscheiden.** Bei der Wahl von IT-Dienstleistern zählen vor allem langjährige Beziehungen, persönliche Empfehlungen und Vertrauen ([channelpartner.de, iSCM-Umfrage, DE](https://www.channelpartner.de/article/4125258/mit-diesen-it-themen-wollen-sich-kunden-2026-beschaftigen.html)). In der kleinräumigen Schweiz gilt das noch stärker, und dein Vater als Türöffner ist dafür sehr viel wert.
+3. **Vertrauen entscheidet, und da startest du ohne Vorsprung.** Bei der Wahl von IT-Dienstleistern zählen vor allem langjährige Beziehungen, persönliche Empfehlungen und Vertrauen ([channelpartner.de, iSCM-Umfrage, DE](https://www.channelpartner.de/article/4125258/mit-diesen-it-themen-wollen-sich-kunden-2026-beschaftigen.html)). In der kleinräumigen Schweiz gilt das noch stärker. Ohne Netzwerk brauchst du deshalb **Netzwerk-Ersatz**: sichtbare Schmerzsignale, greifbare Demos, Partner und Hochschul-Programme ([Kapitel 7](#7-ohne-netzwerk-zu-den-ersten-kunden)).
 4. **Schweizerdeutsch als Burggraben.** Internationale KI-Tools verstehen Mundart nur begrenzt: HappyScribe gibt für Schweizerdeutsch selbst ca. **85 % Genauigkeit** an ([happyscribe.com](https://www.happyscribe.com/de/transkription-gsw)). Telefon-KI mit Dialekt entsteht gerade erst, z.B. beim Zürcher Start-up Haimat ([Netzwoche, 29.05.2026](https://www.netzwoche.ch/news/2026-05-29/zuercher-start-up-entwickelt-telefon-ki-mit-schweizer-dialekten)). Lokale Anbieter haben hier einen echten Vorteil.
 5. **Datenschutz & „Daten bleiben in der Schweiz“.** Das revidierte Datenschutzgesetz (revDSG) gilt seit 1.9.2023 ([Fedlex](https://www.fedlex.admin.ch/eli/cc/2022/491/de)), ein Schweizer KI-Gesetz ist in Vorbereitung (Vernehmlassungsvorlage bis Ende 2026, [BJ](https://www.bj.admin.ch/de/kuenstliche-intelligenz)). Mit dem offenen Schweizer Modell **Apertus** ([PCtipp](https://pctipp.ch/themen/news/schweizer-ki-sprachmodell-apertus-verfuegbar)) und Schweizer Hosting (z.B. Infomaniak, Swisscom) kannst du sensiblen Branchen datenschutzfreundliche KI anbieten.
 6. **Manche globalen Hypes gibt es hier gar nicht.** **TikTok Shop ist in der Schweiz nicht verfügbar.** Bei der Expansion am 15.6.2026 (AT, BE, NL, PL) war die Schweiz nicht dabei, ein Launch wird aber erwartet ([Handelsverband Schweiz](https://handelsverband.swiss/news/social-media-update-juli/)). Discord-Premium-Apps können nur Entwickler aus den USA, UK und der EU monetarisieren ([Discord](https://support-dev.discord.com/hc/en-us/articles/23810643331735)).
-7. **Sehr einfacher Start.** Du brauchst keinen Gewerbeschein. Handelsregister und MWST werden erst ab **100'000 CHF Umsatz** Pflicht, und AHV-Beiträge auf Nebenerwerb erst ab **2'500 CHF Gewinn pro Jahr** (Details in [Kapitel 11](#11-recht-ahv--steuern-in-der-schweiz)).
+7. **Sehr einfacher Start, aber strenge Regeln für Kaltakquise.** Du brauchst keinen Gewerbeschein. Handelsregister und MWST werden erst ab **100'000 CHF Umsatz** Pflicht, AHV-Beiträge auf Nebenerwerb erst ab **2'500 CHF Gewinn pro Jahr**. Dafür ist **Massenwerbung per E-Mail ohne Einwilligung unlauter, auch im B2B-Bereich**, und Telefonnummern mit Sterneintrag sind für Werbeanrufe tabu (Details in [Kapitel 12](#12-recht-ahv--steuern-in-der-schweiz)).
 
 ---
 
@@ -80,12 +83,12 @@ Die meisten „Side-Hustle“-Listen im Netz sind für die USA oder Deutschland 
 | **Affiliate-Nischenseiten / SEO-Blogs** | ❌ raus | Ahrefs: Die Klickrate auf Platz 1 fiel bei Keywords mit AI Overview von 7,3 % (03/2024) auf 1,6 % (12/2025). Ein Experiment (Preprint 08/2026) zeigt, dass Googles AI Mode die Klicks auf Publisher um 18,8 Prozentpunkte senkt ([Digitaleer](https://www.digitaleer.com/ai-impact-google-search-traffic-2026/), [TechWyse](https://www.techwyse.com/news/search-seo/google-ai-mode-reduces-publisher-clicks-study-2026)). |
 | **Texte & Übersetzungen (Freelance)** | ❌ raus | Auf Upwork sanken die Schreib-Jobs um 33 % und die Übersetzungs-Jobs um 19 % ([Bloomberry](https://bloomberry.com/blog/i-analyzed-5m-freelancing-jobs-to-see-what-jobs-are-being-replaced-by-ai/)). Laut einer WashU/NYU-Studie bekamen Freelancer nach dem Start von ChatGPT weniger Aufträge ([WashU Olin](https://olin.washu.edu/about/news-and-media/news/2023/08/study-ai-tools-cause-a-decline-in-freelance-work-and-incomeat-least-in-the-short-run.php)). |
 | **UGC-Creator** | ❌ raus | Braucht dein Gesicht. Dazu kommt Preisdruck durch KI-UGC: laut Anbieterangaben ca. 2–30 $ pro Video statt 150–500 $ für Menschen ([Segwise](https://segwise.ai/blog/ai-ugc-vs-human-ugc-meta-ads-roas-2026.md), [Eliro](https://eliro.pro/blog/ai-ugc-replacing-creators-2026)). |
-| **Generische SMMA / „KI-Agentur“ mit Massen-Kaltakquise** | ❌ raus | „Agenturen wie Pizzerias, an jeder Ecke“ ([Lilach Bullock](https://www.lilachbullock.com/social-media-marketing-agency-start/), Meinung). Die Antwortquoten auf B2B-Kaltmails sind von ca. 6,8 % (2023) auf 4–5 % gefallen, und Massenversand verbrennt Domains ([Salesforge](https://salesforge.ai/blog/ai-personalization-trends-in-cold-outreach), [Prospeo](https://prospeo.io/s/ai-cold-outreach)). **Wichtig:** Das Problem ist das *generische* Modell. KI-Umsetzung in einer Nische, lokal und persönlich, ist deine Top-Empfehlung (Kapitel 7). |
+| **Generische SMMA / „KI-Agentur“ mit Massen-Kaltakquise** | ❌ raus | „Agenturen wie Pizzerias, an jeder Ecke“ ([Lilach Bullock](https://www.lilachbullock.com/social-media-marketing-agency-start/), Meinung). Die Antwortquoten auf B2B-Kaltmails sind von ca. 6,8 % (2023) auf 4–5 % gefallen, und Massenversand verbrennt Domains ([Salesforge](https://salesforge.ai/blog/ai-personalization-trends-in-cold-outreach), [Prospeo](https://prospeo.io/s/ai-cold-outreach)). In der Schweiz ist Massenversand ohne Einwilligung zudem unlauter (UWG). **Wichtig:** Das Problem ist das *generische* Modell. KI-Umsetzung für lokale Betriebe, persönlich angesprochen, ist deine Top-Empfehlung (Kapitel 8). |
 | **Apps einfach „vibe-coden“ und hoffen** | ❌ als Startpunkt | Bauen ist leicht, Kunden finden ist schwer. Von 436 untersuchten Firmen, die über Vibe-Coding-Hosts Zahlungen abwickeln, waren nur 6 „etabliert“ ([BigIdeasDB, 09/2026](https://bigideasdb.com/do-vibe-coded-apps-make-money)). |
 | **Notion-/Canva-Templates, Presets** | ❌ raus | Sehr voll und billig, ohne eigene Reichweite kaum Verkäufe. Selbst Anbieter-Blogs sehen Chancen nur noch in engen Nischen ([Fungies](https://fungies.io/how-to-sell-digital-downloads-online)). |
 | **Indie-Games / Roblox als Einkommensplan** | ❌ als Plan | Steam 2025: rund 20'000 neue Spiele, Median-Umsatz ca. 249 $, zwei Drittel der Spiele unter 1'000 $ ([Ziva](https://ziva.sh/blogs/indie-game-revenue), [SteamPageAnalyzer](https://www.steampageanalyzer.com/blog/how-many-games-release-on-steam)). Roblox: 1,7 Mrd. $ Auszahlungen, davon gehen ~39 % an die Top 10, der Median liegt bei ~1'500 $ ([IBTimes](https://www.ibtimes.co.uk/roblox-top-creators-devex-payouts-2026-1819403)). |
 | **KI-Training-Gigs (Mercor, Micro1 …)** | ❌ in CH | Inserierte Sätze liegen bei ca. 15–41 $/h ([remowork](https://remowork.life/remote-jobs-in/germany/data-annotation-and-labeling), [aitrainer.work](https://aitrainer.work/jobs/german?page=1)). Bei ~0,83 CHF/$ ([ibani, 10/2026](https://www.ibani.com/de/leitfaden/chf-usd-wechselkurs-prognose.md)) sind das **ca. 12–34 CHF/h**, unregelmässig und ohne Aufbau. Das ist nicht besser als ein Studentenjob. |
-| **TikTok-Shop-Affiliate** | 🕒 Wildcard | In der Schweiz nicht verfügbar ([Handelsverband](https://handelsverband.swiss/tiktok-shop-und-deren-bedeutung-fuer-schweizer-brands/)). Siehe Wildcards in Kapitel 10. |
+| **TikTok-Shop-Affiliate** | 🕒 Wildcard | In der Schweiz nicht verfügbar ([Handelsverband](https://handelsverband.swiss/tiktok-shop-und-deren-bedeutung-fuer-schweizer-brands/)). Siehe Wildcards in Kapitel 11. |
 | **DE→CH-Arbitrage** | ❌ raus | Die Wertfreigrenze von 150 CHF pro Person und Tag gilt nur für den privaten Gebrauch ([BAZG](https://www.bazg.admin.ch/de/tipps-zum-weihnachtseinkauf-im-ausland)). Für den Weiterverkauf fallen MWST und Zoll an, dazu kommen Kapitalbindung und dünne Margen. |
 
 ---
@@ -103,7 +106,8 @@ Die meisten „Side-Hustle“-Listen im Netz sind für die USA oder Deutschland 
 
 ### T2 · Digitale Basics fehlen erstaunlich oft
 Laut **KMU Digital Pulse 2025** (HSLU + localsearch) wollen **77 %** der Befragten Dienstleistungen online buchen, aber **nur 3 %** der KMU bieten das auf ihrer Website an. Nur 36 % der KMU haben überhaupt eine eigene Website, und von ~47'000 analysierten Websites haben nur 7 % ein professionelles Buchungstool ([IT-Reseller](https://www.itreseller.ch/Artikel/103877/Digitale_Luecken_bei_Schweizer_KMU.html)).
-⚠️ Gleichzeitig verkauft localsearch (Swisscom-Tochter, „Partner von 400'000 KMU“) genau solche Pakete ([Moneycab](https://www.moneycab.com/?p=2054061)). Deshalb eignet sich das eher als **Baustein** in deinem Angebot denn als eigenes Business.
+➡️ Diese Lücke ist **von aussen sichtbar**, deshalb eignet sie sich ideal für die Kundensuche ohne Netzwerk.
+⚠️ Gleichzeitig verkauft localsearch (Swisscom-Tochter, „Partner von 400'000 KMU“) Pakete mit Buchungstool ([Moneycab](https://www.moneycab.com/?p=2054061)), und es gibt viele Buchungs-Apps. Allein reicht das also nicht. Kombiniert mit Erinnerungen, KI-FAQ/Telefon und persönlicher Einrichtung wird es zum **Einstiegspaket** (Kapitel 8).
 
 ### T3 · Lehrstellen & Recruiting wandern auf Short-Form-Video
 - Für 2026 wurden ~74'000 Lehrstellen angeboten. Im Juni waren auf LENA noch ~14'000 offen ([SBFI](https://www.sbfi.admin.ch/de/newnsb/-ZsoLEvnmoRC-8hAKjy6G), [Südostschweiz](https://www.suedostschweiz.ch/schweiz-und-welt/bereits-mehr-als-zwei-drittel-der-lehrstellen-sind-besetzt-1921200)). Laut Yousty bleiben **jedes Jahr rund 10'000 Lehrstellen unbesetzt** ([Yousty](https://cf-images.yousty.ch/pages%2F613%2Fdocuments%2F6ad273fcbbe36618ee2bdbbdc55fa2c3%2FMedienmitteilung_I_Startschuss_fur_die_Lehrstellensuche_I_2025.pdf)).
@@ -111,6 +115,7 @@ Laut **KMU Digital Pulse 2025** (HSLU + localsearch) wollen **77 %** der Befragt
 - WEKA (März 2026): In der Schweiz setzen **erst sehr wenige Arbeitgeber auf Videos im Recruiting** ([WEKA](https://www.weka.ch/themen/personal/personalplanung-und-rekrutierung/personalsuche/article/kurzvideos-erfolgreiche-talentakquise-mit-kurzvideos/)). Eine Ausschreibung im Lehrstellennachweis allein reicht nicht mehr, Lernende sind die glaubwürdigsten Botschafter ([WEKA](https://www.weka.ch/themen/personal/personalplanung-und-rekrutierung/personalmarketing/article/lehrstellenmarketing-junge-talente-finden-und-foerdern/)).
 - Jugendliche: 91 % nutzen soziale Netzwerke täglich oder mehrmals pro Woche, Instagram und TikTok sind mit Abstand am beliebtesten ([JAMESfocus 2025, ZHAW](https://www.zhaw.ch/storage/hochschule/medien/news/2025/250702_MM_JamesFocus/MM_JAMESfocus_Soziale_Netzwerke_2025_DE.pdf)).
 - Es funktioniert schon: Beispiele sind die TikTok-Serie von Jaisli-Xamax ([Horizont](https://www.horizont.net/schweiz/nachrichten/serviceplan-suisse-fuer-jaisli-xamax-ag-zweite-staffel-der-erfolgreichen-employer-branding-serie-auf-tiktok-195541)) und Lernenden-Content in Graubünden ([Südostschweiz](https://www.suedostschweiz.ch/leben-freizeit/gesucht-lernende-die-ihren-beruf-auf-tiktok-und-instagram-zeigen-885978)). Bisher machen das aber vor allem grössere Firmen mit Agenturen.
+➡️ **Jede offene Lehrstelle ist ein öffentlich sichtbarer Schmerz.** Damit sind Yousty und LENA eine fertige Lead-Liste, ganz ohne Netzwerk.
 
 ### T4 · KI-Sichtbarkeit („GEO“): real, aber überhypt
 - 13 % starten die Suche nach einem KMU direkt mit KI-Tools, bei den 18–29-Jährigen sind es 21 % ([Netzwoche](https://www.netzwoche.ch/news/2025-12-17/ki-assistenten-werden-zur-neuen-kmu-suchmaschine)). Ketten sind in KI-Antworten im Vorteil, viele kleine KMU tauchen gar nicht auf ([Netzwoche, 29.9.2026](https://www.netzwoche.ch/news/2026-09-29/schweizer-kmus-bleiben-in-ki-antworten-oft-unsichtbar)).
@@ -121,7 +126,7 @@ Laut **KMU Digital Pulse 2025** (HSLU + localsearch) wollen **77 %** der Befragt
 Apertus (ETH/EPFL/CSCS, 8B und 70B Parameter, Apache-2.0) gibt es über Swisscom und Hugging Face. Der Kanton Tessin nutzt es bereits produktiv für Übersetzungen ([Netzwoche](https://www.netzwoche.ch/news/2026-03-23/kanton-tessin-setzt-fuer-uebersetzungen-auf-apertus)). Infomaniak bietet LLMs mit Hosting in der Schweiz an ([InfoSwitch, werblich](https://infoswitch.fr/de/blog/ai-tools-llm-api-infomaniak)). Telefon-KI mit Mundart: Haimat (ZH), White-Label-Anbieter mit +41-Nummern ([AInora](https://ainora.lt/md/de/white-label-voicebot-schweiz.md)), und die Stadt Kreuzlingen testet einen KI-Telefonassistenten ([Netzwoche](https://www.netzwoche.ch/news/2026-06-17/ki-soll-fragen-der-bevoelkerung-telefonisch-beantworten-und-versteht-angeblich)).
 
 ### T6 · Software-Ökosysteme mit eingebautem Vertrieb
-bexio hat über **100'000 Kunden** und 1'300 Treuhand-Partner, im Marktplatz gibt es über 120 Apps. Die API ist für alle offen, und bexio behält **25 % Servicegebühr** (20 % für die umsatzstärksten Partner) ([bexio Partner](https://www.bexio.com/de-CH/marketplace/become-a-marketplace-partner), [Partnervertrag](https://www.bexio.com/de-CH/marketplace/marketplace-partnervertrag), [Moneycab](https://www.moneycab.com/?p=1923837)). Für ein späteres Schweizer Micro-SaaS ist das der wohl kürzeste Weg zu zahlenden Kunden.
+bexio hat über **100'000 Kunden** und 1'300 Treuhand-Partner, im Marktplatz gibt es über 120 Apps. Die API ist für alle offen, und bexio behält **25 % Servicegebühr** (20 % für die umsatzstärksten Partner) ([bexio Partner](https://www.bexio.com/de-CH/marketplace/become-a-marketplace-partner), [Partnervertrag](https://www.bexio.com/de-CH/marketplace/marketplace-partnervertrag), [Moneycab](https://www.moneycab.com/?p=1923837)). Ein Marktplatz liefert dir Vertrieb, den du ohne Netzwerk sonst nicht hast. Für ein späteres Micro-SaaS ist das der wohl kürzeste Weg zu zahlenden Kunden.
 
 ### T7 · Social Commerce kommt verspätet
 Die Schweiz hat ~3,5 Mio. monatliche TikTok-Nutzer, aber noch keinen TikTok Shop ([Handelsverband](https://handelsverband.swiss/tiktok-shop-und-deren-bedeutung-fuer-schweizer-brands/)). In Deutschland gibt es nach einem Jahr über 25'000 Verkäufer ([Schwäbische](https://www.schwaebische.de/wirtschaft/wie-erfolgreich-ist-der-tiktok-shop-4456007)). Wer beim Schweiz-Launch bereit ist, hat ein Zeitfenster.
@@ -159,7 +164,7 @@ Legende: ✅ Top-Kandidat · 🟡 bedingt / als Baustein · 🕒 Wildcard (beoba
 | Beats & Sample-Packs (Musik) | ❌ | Übersättigt, dazu Konkurrenz durch KI-Musik-Tools |
 | Prüfungs-Kurs für eine konkrete Prüfung (Uni/Berufsschule) | 🟡 | Spätere Produktisierung von Nachhilfe möglich, Urheberrecht an Unterlagen beachten |
 | Micro-SaaS für eine CH-Nische | ✅ Stufe 2 | Hohe Skalierung, aber erst nach Kundenvalidierung |
-| bexio-Marketplace-App | ✅ Stufe 2 | Eingebauter Vertrieb an >100'000 KMU |
+| bexio-Marketplace-App | ✅ Stufe 2 | Eingebauter Vertrieb an >100'000 KMU, ersetzt fehlendes Netzwerk |
 
 ### C. Content & Creator
 | Idee | Urteil | Kurzbegründung |
@@ -171,7 +176,7 @@ Legende: ✅ Top-Kandidat · 🟡 bedingt / als Baustein · 🕒 Wildcard (beoba
 | Newsletter / Podcast | 🟡 | 12–24 Monate Anlauf, als Nebenkanal ok |
 | Affiliate-Blogs / SEO-Seiten | ❌ | AI Overviews kosten Klicks |
 | Deal-/Affiliate-Kanal für die Schweiz (Telegram/Discord) | ❌ | Schweizer Affiliate-Programme unklar (Galaxus-Programm z.B. nur für [FR](https://www.galaxus.fr/en/page/become-an-affiliate-partner-28079)/BE belegt), etablierte Deal-Seiten |
-| Faceless B2B-Content (LinkedIn/YouTube-Demos) | 🟡 Vertriebskanal | Perfekt, um 🥇/🥈 zu verkaufen, aber kein eigenes Business |
+| Faceless B2B-Content (LinkedIn/YouTube-Demos) | 🟡 Vertriebskanal | Baut Vertrauen ohne Netzwerk auf und verkauft 🥇/🥈, aber kein eigenes Business |
 
 ### D. Online-Dienstleistungen (remote)
 | Idee | Urteil | Kurzbegründung |
@@ -182,22 +187,22 @@ Legende: ✅ Top-Kandidat · 🟡 bedingt / als Baustein · 🕒 Wildcard (beoba
 | Remote-Videoschnitt für Creator | 🟡 | Global umkämpft, besser lokal/B2B |
 | Visuals für Musiker:innen & DJs (Visualizer, Cover-Art) | ❌ | Kleine Budgets, global umkämpft (Fiverr), als Hobby ok |
 | Webdesign „für alle“ | ❌ | Baukästen + Agenturen, nur als Paket-Teil |
-| Generische KI-Agentur mit Massen-Kaltakquise | ❌ | Überlaufen, Antwortquoten sinken |
+| Generische KI-Agentur mit Massen-Kaltakquise | ❌ | Überlaufen, Antwortquoten sinken, UWG |
 | Virtuelle Assistenz | ❌ | Wird selbst automatisiert |
 
 ### E. Lokale B2B-Dienstleistungen
 | Idee | Urteil | Kurzbegründung |
 |---|---|---|
-| **KI-Automatisierung für eine KMU-Nische** | ✅ 🥇 | Grösste Lücke, bester Skill-Fit, Weg zum Produkt |
-| **Lehrstellen-/Recruiting-Kurzvideos** | ✅ 🥈 | Unterversorgt, Video-Fit, Türöffner |
-| Online-Buchung & digitale Basics als Abo | 🟡 Baustein | 77 % vs. 3 % Lücke, aber localsearch & Baukästen |
-| KI-Telefonassistent (Mundart) einrichten | 🟡 Baustein | Echte Nachfrage, Tools entstehen gerade |
+| **KI-Automatisierung für lokale KMU** (Einstieg: Erreichbarkeit & Termine) | ✅ 🥇 | Grösste Lücke, bester Skill-Fit, Schmerz von aussen sichtbar, Weg zum Produkt |
+| **Lehrstellen-/Recruiting-Kurzvideos** | ✅ 🥈 | Unterversorgt, Video-Fit, öffentliche Lead-Liste (offene Lehrstellen) |
+| Online-Buchung & digitale Basics als Abo | 🟡 Einstiegsmodul 🥇 | 77 % vs. 3 % Lücke, allein aber zu austauschbar |
+| KI-Telefonassistent (Mundart) einrichten | 🟡 Einstiegsmodul 🥇 | Echte Nachfrage, Tools entstehen gerade |
 | KI-Sichtbarkeits-Check (GEO) | 🟡 Türöffner | Trend real, Wirkung unbewiesen |
 | KMU-Fotografie (Team, Produkte, Karriereseite) | 🟡 Add-on | Gut kombinierbar mit 🥈 |
-| Messe-/Produktvideos für Industrie | 🟡 | Passt zum Netzwerk, saisonal |
+| Messe-/Produktvideos für Industrie | 🟡 | Ohne Branchenkontakte schwer kalt zu verkaufen, später als Upsell für 🥈-Kunden |
 | IT-Support für Kleinstfirmen | 🟡 | Erreichbarkeit/Haftung kollidiert mit Studium |
 | KI-Workshops für KMU/Vereine | 🟡 Add-on | Lead-Generator, als Student weniger glaubwürdig |
-| Vereins-Digitalisierung (Website, Mitglieder, Content) | 🟡 | Kleine Budgets, etablierte Vereinssoftware (z.B. ClubDesk), über das eigene Netzwerk (Sport/Musik) ok |
+| Vereins-Digitalisierung (Website, Mitglieder, Content) | 🟡 | Kleine Budgets, etablierte Vereinssoftware (z.B. ClubDesk), über eigene Vereine (Sport/Musik) ok |
 | Drohnen-Aufnahmen (Immobilien, Industrie) | ❌ | Drohne sprengt das Budget, dazu Registrierung und Regeln beim BAZL |
 | Social-Media-Betreuung generisch | ❌ | SMMA-Übersättigung |
 
@@ -241,11 +246,11 @@ Punkte 1–5 (5 = am besten), gewichtet nach Kapitel 1.
 
 | # | Idee | Fit | Skal. | Nachfr. | Sätt.¹ | Zeit-Fit | Speed | Lernen | Risiko² | Kosten | **Score** | Rolle |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | KI-Automatisierung KMU-Nische | 5 | 4 | 5 | 3 | 4 | 3 | 5 | 4 | 5 | **4.25** | 🥇 Kern |
-| 2 | Lehrstellen-/Recruiting-Content | 5 | 3 | 4 | 4 | 3 | 4 | 3 | 4 | 4 | **3.85** | 🥈 Türöffner / Alternative |
+| 1 | KI-Automatisierung für lokale KMU | 5 | 4 | 5 | 3 | 4 | 2 | 5 | 3 | 5 | **4.15** | 🥇 Kern |
+| 2 | Lehrstellen-/Recruiting-Content | 5 | 3 | 4 | 4 | 3 | 4 | 3 | 4 | 4 | **3.85** | 🥈 schnellster Einstieg ohne Netzwerk |
 | 3 | Micro-SaaS (ohne Vorvalidierung) | 5 | 5 | 3 | 3 | 3 | 1 | 5 | 2 | 5 | **3.85** | 🥉 erst als Stufe 2 |
-| 4 | KI-Telefonassistent (Integrator) | 4 | 4 | 4 | 3 | 4 | 3 | 4 | 3 | 4 | **3.75** | Baustein zu 🥇 |
-| 5 | Online-Buchung & Digital-Basics | 4 | 4 | 4 | 2 | 4 | 4 | 3 | 4 | 5 | **3.70** | Baustein zu 🥇 |
+| 4 | KI-Telefonassistent (Integrator) | 4 | 4 | 4 | 3 | 4 | 3 | 4 | 3 | 4 | **3.75** | Einstiegsmodul zu 🥇 |
+| 5 | Online-Buchung & Digital-Basics | 4 | 4 | 4 | 2 | 4 | 4 | 3 | 4 | 5 | **3.70** | Einstiegsmodul zu 🥇 |
 | 6 | Nachhilfe / Programmierkurse | 4 | 2 | 4 | 3 | 5 | 5 | 2 | 5 | 5 | **3.60** | Cash-Brücke |
 | 7 | KI-Sichtbarkeits-Check (GEO) | 4 | 3 | 3 | 3 | 5 | 4 | 3 | 3 | 5 | **3.55** | Gesprächsöffner |
 | 8 | TikTok-Shop-CH (bei Launch) | 4 | 4 | 2 | 5 | 3 | 1 | 3 | 2 | 5 | **3.50** | Wildcard |
@@ -257,15 +262,65 @@ Punkte 1–5 (5 = am besten), gewichtet nach Kapitel 1.
 
 ¹ 5 = wenig Konkurrenz · ² 5 = geringes Risiko
 
+**Was „ohne Netzwerk“ im Scoring ändert:** Bei #1 bekommen „Speed“ und „Risiko“ je einen Punkt weniger, als sie mit warmen Kontakten hätten, weil Vertrauen ohne Empfehlung länger braucht. #2 bleibt unverändert: Offene Lehrstellen sind öffentlich, die Lead-Liste ersetzt das Netzwerk. **#1 bleibt vorne, aber #2 ist der schnellere Weg zum ersten Franken.** Deshalb testet der Startplan beide Einstiege parallel.
+
 **Lesehilfe:** #1 und #13 sind fast dieselbe Tätigkeit. Der Unterschied von über einem Punkt kommt fast vollständig aus **Nische + lokal + persönlich** statt „KI für alle, per Massenmail“. Genau das ist die wichtigste Erkenntnis dieser Analyse.
 
 ---
 
-## 7. Deep-Dive 🥇 KI-Automatisierung für eine KMU-Nische
+## 7. Ohne Netzwerk zu den ersten Kunden
+
+Schweizer KMU kaufen über Vertrauen und Empfehlungen, deshalb ist der erste Kunde ohne Netzwerk der schwerste. Die Lösung heisst nicht „mehr Mails“, sondern: **die richtigen Betriebe richtig ansprechen.** Dafür gibt es fünf Regeln.
+
+### Regel 1 · Nur Betriebe mit sichtbarem Schmerzsignal ansprechen
+
+| Signal | Wo du es siehst | Passendes Angebot |
+|---|---|---|
+| Offene Lehrstelle (oft seit Wochen) | Yousty, LENA (berufsberatung.ch), Firmenwebsite | 🥈 Lehrstellen-Videos |
+| Kein Online-Termin, nur Telefon oder Formular | Website des Betriebs (nur 7 % der KMU-Websites haben ein Buchungstool, T2) | 🥇 „Erreichbar & buchbar“ |
+| Bewertungen wie „nie erreichbar“ oder „lange Wartezeit“ | Google-Bewertungen (manuell lesen) | 🥇 KI-Telefon & Termine |
+| Stelleninserat für Admin, Disposition oder Sachbearbeitung | jobs.ch, Firmenwebsite | 🥇 Prozess-Automatisierung („Entlastung statt Zusatzstelle“) |
+| Veraltete oder fehlende Website, kein gepflegtes Google-Profil | Google, local.ch, search.ch | 🥇 Digital-Basics (als Teil des Pakets) |
+| Offene Lehrstellen, aber kein Instagram/TikTok | Social-Media-Suche | 🥈 |
+
+### Regel 2 · Erst Wert zeigen, dann fragen („Mini-Audit“)
+Investier pro Betrieb 5–10 Minuten und halte **3 konkrete Beobachtungen + 1 Vorschlag** fest. Das kannst du als 60-Sekunden-Bildschirmvideo verschicken oder beim Walk-in ausgedruckt dabeihaben. Als Dev kannst du dir dafür ein kleines **Audit-Script** bauen, das z.B. prüft, ob ein Buchungstool da ist, und die Ladezeit über die PageSpeed-API misst.
+Laut Anbieterdaten erzielt recherchierte, persönliche Ansprache **10–15 % Antworten**, generische nur 3–5 % ([Prospeo](https://prospeo.io/s/ai-cold-outreach), Anbieterangabe).
+
+### Regel 3 · Kanäle, die ohne Netzwerk funktionieren
+
+| Kanal | Warum | Aufwand |
+|---|---|---|
+| **Walk-in** (Gewerbegebiet, Ladenzeile, Werkstätten) | Persönlich schlägt Mail, und in KMU entscheidet der Inhaber selbst | 2 Std. ≈ 6–8 Betriebe |
+| **Telefon** | Schnell und direkt (Sterneintrag beachten, Regel 5) | 5 Anrufe ≈ 30 Min. |
+| **Persönliche E-Mail mit Mini-Audit** | Schriftlich mit Beleg, aber nur einzeln und individuell (UWG) | ~10 Min. pro Mail |
+| **LinkedIn ohne Gesicht** (Demos, Zahlen, Case Studies) | Macht dich sichtbar und glaubwürdig, HR und Berufsbildner:innen sind dort | 1 Post/Woche |
+| **Partner:** Web-Agenturen, IT-Dienstleister, Videoproduktionen | Sie haben das Netzwerk, das dir fehlt, und brauchen oft Kapazität oder KI-Know-how. Du arbeitest als Subunternehmer (auch White-Label) | 10 Mails → 2–3 Gespräche |
+| **Hochschule:** Junior Enterprise, Startup-Center, Innosuisse-Kurs | Die 12 Junior Enterprises der Schweiz machen Projekte für KMU, auch Software und Prototypen ([Studyond](https://studyond.com/insights/student-consulting-with-impact-je-switzerland/)). Der Innosuisse-Kurs „Business Concept“ ist für Studierende gratis und läuft im Frühling und Herbst ([UNIGE](https://www.unige.ch/sih/trainingcourses/business-courses/innosuisse-start-training-business-concept)) | Bewerbung, ~10 Abende |
+| **Gewerbeverein, KMU-Apéros, Gewerbeausstellungen** | Viele lokale Inhaber:innen an einem Ort | 1 Anlass/Monat |
+| **Empfehlungen** | Nach jedem Projekt nach 2 Kontakten fragen. Ab der 2.–3. Referenz wird alles leichter | 5 Min. |
+
+### Regel 4 · Vertrauen ersetzen
+- **Pilot „bezahlt nach Abnahme“:** Das Risiko liegt bei dir, nicht beim Kunden.
+- **Demo mit seinen Daten:** z.B. ein Mockup seiner eigenen Buchungsseite oder ein Beispiel-Clip aus seiner Branche.
+- **Kleine Einstiegspakete (≤ CHF 1'500):** Bei diesem Betrag entscheidet der Inhaber sofort.
+- **Professioneller Auftritt:** eigene Domain, E-Mail-Adresse, One-Pager, schriftliche Offerte mit Fixpreis.
+- **Sichtbare Belege:** Portfolio, Case Studies, Zitate von Kunden.
+
+### Regel 5 · Legal bleiben (UWG)
+- **E-Mail:** Massenwerbung ohne Einwilligung ist unlauter, auch im B2B-Bereich (Art. 3 Abs. 1 lit. o UWG). Schreib nur **einzelne, individuell verfasste** Mails mit korrektem Absender und einem Satz zur Ablehnung („Kein Interesse? Eine kurze Antwort genügt, dann melde ich mich nicht mehr.“). Ob einzelne Kaltmails schon als „Massenwerbung“ gelten, ist umstritten, halte das Volumen also klein ([WEKA](https://www.weka.ch/themen/datenschutz-und-it-recht/datenschutz-umsetzen/article/datenschutz-newsletter-rechtssicheres-e-mail-marketing-in-der-schweiz/), [Certified Senders Alliance](https://certified-senders.org/wp-content/uploads/2018/06/Die-Rechtslage-für-E-Mail-Marketing-in-DACH.pdf)).
+- **Telefon:** Nummern mit Sterneintrag sind für Werbeanrufe tabu, nicht eingetragene seit 2021 ebenso (Art. 3 Abs. 1 lit. u UWG). Prüf das vorher im Verzeichnis ([SECO](https://www.seco.admin.ch/de/unerbetene-werbeanrufe)).
+- **Keine gekauften Adresslisten** und kein automatisiertes Abgreifen von Plattformen gegen deren Nutzungsbedingungen. Recherchier manuell oder nutze offizielle APIs.
+
+**Realistische Erwartung (Schätzung):** 60–80 Kontaktversuche in 4 Wochen ergeben ca. 12–15 Gespräche und daraus 1–2 Piloten. Mit warmen Kontakten ginge es schneller. Ohne sie zahlt sich jede Referenz doppelt aus.
+
+---
+
+## 8. Deep-Dive 🥇 KI-Automatisierung für lokale KMU
 
 ### Was genau?
-Du löst für kleine Firmen (5–100 Mitarbeitende) **ein konkretes, wiederkehrendes Ärgernis** mit KI und Automatisierung: n8n oder Make, ein Sprachmodell und die Software, die die Firma schon hat (Outlook/Gmail, bexio, Excel, Website). Du verkaufst **zum Fixpreis**, mit optionalem Wartungs-Abo.
-Du verkaufst dabei nicht „KI“, sondern **„4 Stunden pro Woche weniger Offerten tippen“**.
+Du löst für kleine Firmen (1–50 Mitarbeitende) **ein konkretes, wiederkehrendes Ärgernis** mit KI und Automatisierung: n8n oder Make, ein Sprachmodell und die Software, die die Firma schon hat (Kalender, Outlook/Gmail, bexio, Website). Du verkaufst **zum Fixpreis**, mit optionalem Monats-Abo.
+Du verkaufst dabei nicht „KI“, sondern **„weniger Telefonstress, mehr Termine, weniger Admin“**.
 
 ### Warum jetzt?
 - Die Umsetzungslücke ist belegt (T1): 65 % der KMU haben KI noch nicht in Prozesse integriert, und der Unterstützungsbedarf ist gross.
@@ -273,57 +328,70 @@ Du verkaufst dabei nicht „KI“, sondern **„4 Stunden pro Woche weniger Offe
 - **Beispielrechnung (Annahme):** Spart eine Automation 4 Std./Woche à 50 CHF interne Kosten, sind das ~9'600 CHF pro Jahr. Ein Paket für 1'500–2'500 CHF hat sich dann nach wenigen Monaten bezahlt gemacht.
 
 ### Warum du?
-- Als **fortgeschrittener Entwickler** kommst du weiter als reine No-Code-„Agenturen“: eigene APIs, Skripte, Datenbereinigung, Hosting, Fehlerbehandlung.
+- Als **fortgeschrittener Entwickler** kommst du weiter als reine No-Code-„Agenturen“: eigene APIs, Skripte, Datenbereinigung, Hosting, Fehlerbehandlung. Ausserdem baust du dir Werkzeuge, die dich schneller machen (Audit-Script, Vorlagen).
 - Mit **Video/Design** baust du starke Demos und One-Pager, in Form von Bildschirmvideos ohne Gesicht.
-- **Akquise & Termine vor Ort sind für dich ok**, und genau das fehlt den Massen-Agenturen.
-- Dein **Vater** öffnet Türen in die Industrie-/Tech-KMU-Welt (Thurgau hat traditionell einen hohen Industrieanteil, [Kantonsstatistik](https://statistik.tg.ch/public/upload/assets/41043/2005%20Thurgau%20in%20Zahlen.pdf?fp=1)).
+- **Walk-ins, Anrufe und Termine vor Ort sind für dich ok.** Das ist dein Ersatz fürs fehlende Netzwerk, und genau das fehlt den Massen-Agenturen.
 
 ### Sättigung (ehrlich)
-Massen-„KI-Agenturen“ sind überlaufen, und IT-Dienstleister, Swisscom und localsearch drängen in den Markt. **Deine Lücke:** Kleinbetriebe in *einer* Nische, die du persönlich kennst. Für Konzernanbieter sind sie zu klein, für Agenturen zu wenig lukrativ.
+Massen-„KI-Agenturen“ sind überlaufen, und IT-Dienstleister, Swisscom und localsearch drängen in den Markt. **Deine Lücke:** Kleinbetriebe in deiner Stadt, die du persönlich besuchst. Für Konzernanbieter sind sie zu klein, für Agenturen zu wenig lukrativ.
+
+### Der Einstieg ohne Netzwerk: das Paket „Erreichbar & buchbar“
+Ohne Netzwerk brauchst du ein Einstiegsangebot, dessen Problem **man von aussen sieht** und dessen Ergebnis **man sofort sieht**:
+
+- **Online-Termine** (bestehendes Tool sauber eingerichtet und auf der Website eingebunden)
+- **Automatische Erinnerungen** per SMS/E-Mail mit Link zum Verschieben, gegen No-Shows
+- **FAQ-Bot** auf der Website (Öffnungszeiten, Preise, Leistungen) mit Übergabe an einen Menschen
+- Optional ein **KI-Telefon mit Mundart** über einen bestehenden Anbieter, verbunden mit dem Kalender (vorher Testanrufe!)
+- **Bewertungsanfragen** nach dem Termin und ein gepflegtes Google-Profil
+
+Warum das gut funktioniert: Die Lücke ist gross (77 % wollen online buchen, 3 % der KMU bieten es an), das Ticket ist klein, das Ergebnis zeigt sich in Tagen, und die Monatsgebühr bringt wiederkehrenden Umsatz. Danach folgt der **Upsell** in die Prozess-Automatisierung (Offerten, Rapporte, Dokumente).
 
 ### Nischen-Optionen (wähle nach den Gesprächen eine)
 
-| Nische | Typische Schmerzen | Beispiel-Automation | Zugang |
+| Nische | Sichtbares Signal | Einstieg → Upsell | Zugang ohne Netzwerk |
 |---|---|---|---|
-| **Industrie-/Tech-KMU** | Anfragen & Offerten, Wissen in Handbüchern/Datenblättern, Übersetzungen, Rapporte | Anfrage-Mail → strukturierter Offerte-Entwurf; Wissens-Chat über interne Dokumente (Schweizer Hosting) | Vater & sein Netzwerk |
-| **Handwerk & Garagen** | Telefon klingelt dauernd (z.B. Reifenwechsel-Saison), Offerten am Abend, Rapporte | Online-/KI-Terminbuchung, Sprachnotiz → Rapport → Rechnungsentwurf | Walk-in, Gewerbeverein |
-| **Termin-Dienstleister** (Physio, Coiffeur, Fahrlehrer) | Telefonbuchungen, No-Shows, keine Online-Buchung | Buchung + Erinnerungen + FAQ-Bot + Bewertungsanfragen | Walk-in, lokal |
-| Treuhand (später) | Belege, Mandanten-Kommunikation | Belegerfassung → bexio | Anspruchsvoll, sehr sensible Daten |
+| **Garagen & Handwerk** | Nur Telefon/Formular, Saisonspitzen (Pneuwechsel im Herbst bringt Wartezeiten, [PlattformJ](https://www.plattformj.ch/artikel/185142/)) | KI-Telefon + Online-Termin → Sprachnotiz → Rapport → Rechnungsentwurf | Walk-in in die Werkstatt, Anruf |
+| **Termin-Dienstleister** (Coiffeur, Kosmetik, Massage, Fahrlehrer) | Kein Buchungs-Button, Website veraltet | Online buchbar + Erinnerungen + FAQ-Bot → Bewertungs- und Marketing-Automation | Walk-in in den Laden |
+| **Betriebe mit Admin-Stelleninserat** | Inserat für Disposition oder Sachbearbeitung | KI-Check → Anfrage → Offerte-Entwurf, Dokumentenablage | Persönliche Mail, Anruf |
+| Gesundheit (Physio, Praxen) | Kein Buchungs-Button | Erst später: Termindaten können **Gesundheitsdaten** sein (besonders schützenswert), das braucht geeignete Schweizer Tools | Walk-in |
+| Industrie-KMU, Treuhand | Kaum von aussen sichtbar | Wissens-Chat, Offerten, Belege | Ohne Kontakte schwer, später über Referenzen und Partner |
 
-**Kriterien für die Wahl:** (1) Du hast Zugang über warme Kontakte. (2) Der Schmerz ist wiederkehrend und kostet messbar Zeit oder Geld. (3) Es gibt Zahlungsbereitschaft. (4) Die Kunden sind in deiner Region erreichbar. (5) Viele Firmen haben **dasselbe** Problem, das ist die Voraussetzung für Stufe 2.
+**Kriterien für die Wahl:** (1) Das Signal ist öffentlich sichtbar. (2) Der Schmerz ist wiederkehrend und kostet messbar Zeit oder Geld. (3) Der Inhaber entscheidet selbst. (4) Die Betriebe sind in deiner Region erreichbar. (5) Viele haben **dasselbe** Problem, das ist die Voraussetzung für Stufe 2.
 
 ### Angebot & Preise (Richtwerte, abgeleitet aus Benchmarks)
 
 | Paket | Inhalt | Preis |
 |---|---|---|
-| **KI-Check** (Türöffner) | 45 Min. vor Ort, 3 Automatisierungs-Chancen mit Nutzen-Schätzung, inkl. KI-Sichtbarkeits-Check | gratis bis CHF 150 |
-| **Automatisierungs-Sprint** | 1 Workflow live in 2–3 Wochen, Doku, Einweisung, 30 Tage Support | CHF 1'200–2'500 |
+| **Mini-Audit / KI-Check** (Türöffner) | 3 Beobachtungen + 1 Vorschlag (vorbereitet), auf Wunsch 45 Min. vor Ort, inkl. KI-Sichtbarkeits-Check | gratis |
+| **„Erreichbar & buchbar“** (Einstieg) | Online-Termine, Erinnerungen, FAQ-Bot, Bewertungsanfragen, optional KI-Telefon, Einrichtung in ~1 Woche | CHF 600–1'500 + CHF 50–150 / Monat |
+| **Automatisierungs-Sprint** (Upsell) | 1 Workflow live in 2–3 Wochen (z.B. Anfrage → Offerte), Doku, Einweisung, 30 Tage Support | CHF 1'200–2'500 |
 | **Betrieb & Wartung** | Monitoring, kleine Anpassungen, Hosting-Betreuung | CHF 80–250 / Monat |
 
-Pilotkunden (die ersten 1–2) bekommen 30–50 % Rabatt, im Gegenzug für Referenz und Case Study.
+Pilotkunden (die ersten 1–2) bekommen 30–50 % Rabatt bzw. zahlen erst nach Abnahme, im Gegenzug für Referenz und Case Study.
 Vergleichswerte: Ein Chatbot-Setup bei Graubünden Ferien kostet einmalig CHF 600 plus CHF 1 pro Antwort ([graubuenden.ch](https://www.graubuenden.ch/de/shared-services/unterkuenfte-und-restaurants/chatbot)). Chatbot-Einrichtung für Kleinbetriebe in DACH: ca. 500–1'500 € ([StudioMeyer, DE](https://studiomeyer.io/de/blog/ki-automatisierung-kmu-einstieg)).
 
-**Zeitbedarf:** Ein Sprint braucht ca. 12–25 Std., also ist **1 Projekt pro Monat** bei 5–10 Std./Woche realistisch.
+**Zeitbedarf:** „Erreichbar & buchbar“ ≈ 6–12 Std. (mit Vorlagen weniger), ein Sprint ≈ 12–25 Std. Bei 5–10 Std./Woche sind **1–2 Projekte pro Monat** realistisch.
 
 ### Skalierungspfad
-1. Dieselbe Lösung für 3–5 Firmen derselben Nische → **Vorlage**, die du in Stunden statt Tagen einrichtest.
-2. **Wartungs-Abos** bringen planbaren, wiederkehrenden Umsatz.
-3. Wiederkehrendes Problem → **eigenes Produkt** (SaaS oder bexio-App), siehe Kapitel 9.
-4. Alternativ **Partnerkanal:** Lokale IT-Dienstleister und Treuhänder verkaufen deine Automationen weiter. Oder du holst weitere Studierende als Freelancer dazu.
+1. Dasselbe Paket für 5–10 Betriebe derselben Nische → **Vorlage**, die du in Stunden statt Tagen einrichtest.
+2. **Monats-Abos** bringen planbaren, wiederkehrenden Umsatz.
+3. Wiederkehrendes Problem → **eigenes Produkt** (SaaS oder bexio-App), siehe Kapitel 10.
+4. **Partnerkanal:** Lokale Web-Agenturen und IT-Dienstleister verkaufen dein Paket weiter oder holen dich als Subunternehmer. Später kannst du auch weitere Studierende als Freelancer dazuholen.
 
 ### Risiken & Gegenmittel
 | Risiko | Gegenmittel |
 |---|---|
-| Datenschutz (revDSG) | Der Kunde besitzt Accounts & API-Keys, du bekommst Zugriff. Vereinbarung zur Auftragsbearbeitung. Sensible Daten nur mit Schweizer/EU-Hosting oder Business-Accounts mit Datenschutzvertrag. Nie Kundendaten in Gratis-Tools. |
-| Fehler der KI | **Human-in-the-loop:** Die KI erstellt Entwürfe, ein Mensch gibt frei. Keine Bank- oder Zahlungszugänge. |
+| Langsamer Start ohne Netzwerk | Nur Betriebe mit sichtbarem Signal ansprechen, Mini-Audit, Walk-ins, Partner, Pilot „bezahlt nach Abnahme“ (Kapitel 7) |
+| Datenschutz (revDSG) | Der Kunde besitzt Accounts & API-Keys, du bekommst Zugriff. Vereinbarung zur Auftragsbearbeitung. Sensible Daten nur mit Schweizer/EU-Hosting oder Business-Accounts mit Datenschutzvertrag. Gesundheitsbetriebe erst später. |
+| Fehler der KI | **Human-in-the-loop:** Die KI erstellt Entwürfe, ein Mensch gibt frei. Der Telefonbot übergibt an einen Menschen. Keine Bank- oder Zahlungszugänge. |
 | Scope Creep | Fixpreis mit klarer Abgrenzung, Änderungen werden separat offeriert |
-| Glaubwürdigkeit als Student | Demos, Case Studies, „bezahlt nach Abnahme“ für Piloten |
-| Abhängigkeit von Anbietern | Modelle austauschbar halten (OpenAI-kompatible APIs), Kosten pro Durchlauf messen |
+| Glaubwürdigkeit als Student | Demos mit den Daten des Kunden, Case Studies, „bezahlt nach Abnahme“ für Piloten |
+| Abhängigkeit von Anbietern | Modelle und Tools austauschbar halten (OpenAI-kompatible APIs), Kosten pro Durchlauf messen |
 | Haftung | Leistungsumfang & Haftungsbegrenzung in die Offerte schreiben, ab mehreren Kunden eine Berufshaftpflicht prüfen |
 
 ---
 
-## 8. Deep-Dive 🥈 Lehrstellen- & Recruiting-Content
+## 9. Deep-Dive 🥈 Lehrstellen- & Recruiting-Content
 
 ### Was genau?
 Du produzierst für Lehrbetriebe **kurze, authentische Hochformat-Videos** (TikTok, Reels, Shorts), in denen **die Lernenden ihren Beruf zeigen**. Du stehst hinter der Kamera und im Schnitt. Dazu kommen Fotos für die Karriereseite, Untertitel und ein Posting-Plan.
@@ -333,8 +401,11 @@ Du produzierst für Lehrbetriebe **kurze, authentische Hochformat-Videos** (TikT
 - Kaum ein Schweizer KMU macht Video-Recruiting, obwohl Jugendliche auf Instagram und TikTok sind.
 - **Timing:** Die Lehrstellen für Sommer 2027 werden **jetzt** ausgeschrieben (der Yousty-„Startschuss“ ist jeweils im August), Herbst und Winter sind also Hochsaison.
 
+### Warum gerade ohne Netzwerk so geeignet?
+**Die Lead-Liste ist öffentlich.** Jede Lehrstelle auf Yousty oder LENA zeigt dir einen Betrieb mit akutem Bedarf, und die Kontaktperson steht oft gleich im Inserat. Das Angebot ist greifbar (ein Beispiel-Clip sagt mehr als jede Präsentation), und das Problem muss niemandem erklärt werden.
+
 ### Warum du?
-Video, Short-Form, Foto und Design hast du. Du bist nah an der Zielgruppe und kennst die Plattform-Sprache. „Ohne Gesicht“ passt perfekt, weil die Lernenden vor der Kamera stehen. Als Informatik-Student verstehst du technische Berufe (Polymechaniker:in, Automatiker:in, Informatiker:in, Konstrukteur:in) und kannst sie erklären.
+Video, Short-Form, Foto und Design hast du. Du bist nah an der Zielgruppe und kennst die Plattform-Sprache. „Ohne Gesicht“ passt perfekt, weil die Lernenden vor der Kamera stehen. Als Informatik-Student verstehst du technische Berufe (Informatiker:in, Automatiker:in, Elektroinstallateur:in, Polymechaniker:in) und kannst sie erklären.
 
 ### Sättigung
 Agenturen machen Employer-Branding-Serien für grössere Firmen, für ein 30-Personen-KMU ist das zu teuer. Freelance-Videografen machen meist klassische Imagefilme. **Regelmässiger, günstiger Lernenden-Content speziell für KMU** wird kaum angeboten (Einschätzung auf Basis der Recherche).
@@ -365,39 +436,39 @@ Das eigene Smartphone, ein Ansteckmikrofon (ca. CHF 30–60), ein kleines LED-Li
 Formate und Schnittvorlagen standardisieren, Drehs bündeln, den Schnitt an andere Studierende geben. Dazu eigene Tools, z.B. eine **Mundart-Untertitel-Pipeline** mit Whisper. Mögliches späteres Produkt (Hypothese, erst validieren): ein **Content-Kit oder eine App für Lehrbetriebe** mit Vorlagen, Freigabe-Workflow und Auto-Schnitt.
 
 ### Synergie mit 🥇
-Du hast denselben Ansprechpartner (Inhaber, HR, Berufsbildner:in). Als natürlicher Upsell bietet sich an, den **Bewerbungs- und Schnupperlehre-Prozess zu automatisieren**: Formular → Bestätigung → Terminvorschlag → Erinnerung.
+Du hast denselben Ansprechpartner (Inhaber, HR, Berufsbildner:in). Als natürlicher Upsell bietet sich an, den **Bewerbungs- und Schnupperlehre-Ablauf zu automatisieren**: Formular → Bestätigung → Terminvorschlag → Erinnerung.
 
 ---
 
-## 9. Deep-Dive 🥉 Micro-SaaS als Stufe 2
+## 10. Deep-Dive 🥉 Micro-SaaS als Stufe 2
 
 **Warum nicht direkt damit starten?** Bauen ist 2026 trivial geworden, Verkaufen nicht (6 von 436, siehe Kapitel 3). Ohne vorherige Kundengespräche baust du mit hoher Wahrscheinlichkeit etwas, das niemand bezahlt.
 
 **Wann starten?** Sobald **mindestens 3 Kunden dasselbe Problem** haben und bereit sind, **monatlich** dafür zu zahlen.
 
 **Wo?**
-- **bexio-Marktplatz:** über 100'000 KMU-Kunden, offene API, 25 % Gebühr, dafür Vertrieb inklusive (T6).
-- Oder ein eigenständiges Tool für *deine* Nische (z.B. Lehrbetriebe, Garagen).
+- **bexio-Marktplatz:** über 100'000 KMU-Kunden, offene API, 25 % Gebühr, dafür Vertrieb inklusive. Gerade ohne eigenes Netzwerk ist ein Marktplatz Gold wert (T6).
+- Oder ein eigenständiges Tool für *deine* Nische (z.B. Garagen, Lehrbetriebe).
 
 **Ideen-Kandidaten** (Hypothesen, die du in den Gesprächen prüfst):
+- Termin- und Erreichbarkeits-Paket als Produkt für eine Branche (Vorlage + Abo)
 - Anfrage → Offerte-Assistent mit bexio-Anbindung
-- Belegerfassung mit Schweizer Hosting
 - Schnupperlehre- und Bewerbungs-Planer für Lehrbetriebe
 - Mundart-Untertitel für KMU-Videos (Konkurrenz: HappyScribe & Co., [HappyScribe](https://www.happyscribe.com/de/untertitelgenerator/gsw-untertitel))
+- Dein eigenes Mini-Audit-Script als Tool für Agenturen (Lead-Finder)
 
 **MVP-Regeln:** Höchstens 6 Wochen Bauzeit. Ab Tag 1 kostenpflichtig (Pilot-Abo). Erst skalieren, wenn 3 zahlende Kunden das Produkt aktiv nutzen.
 
 ---
 
-## 10. Weitere Bausteine & Wildcards
+## 11. Weitere Bausteine & Wildcards
 
 | Baustein | Einschätzung |
 |---|---|
 | **KI-Telefonassistent (Mundart)** | Der Schmerz ist echt (Erreichbarkeit). Bau keine eigene Plattform, sondern richte bestehende Lösungen ein und verbinde sie mit Kalender und CRM. Achte auf die Dialektqualität (Testanrufe!) und informiere Anrufende transparent über die KI und eine allfällige Aufzeichnung. |
-| **Online-Buchung & Digital-Basics** | Die Lücke ist gross (77 % vs. 3 %), aber localsearch und Baukästen sind stark. Am besten als Modul für Nischen mit Terminen. |
 | **KI-Sichtbarkeits-Check** | Als Gratis-Check und Gesprächsöffner sehr gut. Versprich keine Rankings, denn eine Wirkung ist nicht belegt. |
-| **Nachhilfe / Programmierkurse** | Nur als Cash-Brücke, falls du in den ersten Wochen sofort Geld brauchst. Gruppen-Repetitorien vor Prüfungen erhöhen den Stundensatz. |
-| **Industrie-Produkt- & Messevideos** | Passt zum Netzwerk deines Vaters, eignet sich als Zusatz zu 🥈. |
+| **Nachhilfe / Programmierkurse** | Nur als Cash-Brücke, falls du in den ersten Wochen sofort Geld brauchst. Gruppen-Repetitorien vor Prüfungen erhöhen den Stundensatz. Kunden findest du über Aushänge und Plattformen, auch ohne Netzwerk. |
+| **Industrie-Produkt- & Messevideos** | Ohne Branchenkontakte schwer kalt zu verkaufen. Später als Zusatz für 🥈-Kunden aus der Industrie. |
 
 | Wildcard | Was beobachten | Was vorbereiten |
 |---|---|---|
@@ -409,7 +480,7 @@ Du hast denselben Ansprechpartner (Inhaber, HR, Berufsbildner:in). Als natürlic
 
 ---
 
-## 11. Recht, AHV & Steuern in der Schweiz
+## 12. Recht, AHV & Steuern in der Schweiz
 
 > Keine Rechts- oder Steuerberatung. Kläre deinen Fall im Zweifel mit der Ausgleichskasse deines Kantons und dem Steueramt.
 
@@ -423,14 +494,16 @@ Du hast denselben Ansprechpartner (Inhaber, HR, Berufsbildner:in). Als natürlic
 | **AHV über 2'500 CHF** | Bei der Ausgleichskasse als Selbständige:r anmelden. Mindestbeitrag 2026: CHF 530, voller Satz ab 60'500 CHF Einkommen, darunter eine sinkende Skala | [pfeffersack.ch](https://pfeffersack.ch/blog/ahv-beitraege-selbstaendige-berechnen-schweiz) |
 | **Selbständig anerkannt?** | Die Ausgleichskasse entscheidet. Dafür sprechen mehrere Kunden, eigenes Risiko, eigene Infrastruktur, Rechnungen im eigenen Namen und keine Weisungen. **Arbeite nicht nur für einen einzigen Kunden**, sonst droht die Einstufung als Angestellte:r | [Magic Heidi](https://magicheidi.ch/blog/scheinselbststaendigkeit-schweiz) |
 | **Steuern** | Der Gewinn gehört ab dem ersten Franken in die Steuererklärung. Geschäftliche Kosten (Software, Equipment, Fahrten) sind abziehbar | [pfeffersack.ch](https://pfeffersack.ch/lexikon/nebenerwerb), [Swiss Life](https://www.swisslife.ch/de/private/blog/nebenberuflich-selbststaendig.html) |
-| **Datenschutz** | revDSG seit 1.9.2023. Bearbeitest du Kundendaten im Auftrag, brauchst du einen Vertrag über die Auftragsbearbeitung, Datensparsamkeit und Transparenz | [Fedlex SR 235.1](https://www.fedlex.admin.ch/eli/cc/2022/491/de) |
+| **Kalt-E-Mails** | Massenwerbung per E-Mail ohne Einwilligung ist unlauter, **auch B2B** (Art. 3 Abs. 1 lit. o UWG). Pflicht sind korrekter Absender und eine Möglichkeit zur Ablehnung. Ausnahme: bestehende Kunden. Deshalb nur einzelne, individuelle Mails | [WEKA](https://www.weka.ch/themen/datenschutz-und-it-recht/datenschutz-umsetzen/article/datenschutz-newsletter-rechtssicheres-e-mail-marketing-in-der-schweiz/), [CSA](https://certified-senders.org/wp-content/uploads/2018/06/Die-Rechtslage-für-E-Mail-Marketing-in-DACH.pdf) |
+| **Kaltanrufe** | Kein Werbeanruf an Nummern mit Sterneintrag oder an nicht eingetragene Nummern (Art. 3 Abs. 1 lit. u UWG). Bestehende Geschäftsbeziehungen sind erlaubt | [SECO](https://www.seco.admin.ch/de/unerbetene-werbeanrufe), [local.ch](https://local.ch/de/werbeanrufe) |
+| **Datenschutz** | revDSG seit 1.9.2023. Bearbeitest du Kundendaten im Auftrag, brauchst du einen Vertrag über die Auftragsbearbeitung, Datensparsamkeit und Transparenz. Gesundheitsdaten sind besonders schützenswert | [Fedlex SR 235.1](https://www.fedlex.admin.ch/eli/cc/2022/491/de) |
 | **KI-Regulierung** | Ein Schweizer Gesetz ist in Arbeit (Vernehmlassung bis Ende 2026), der EU AI Act wird nicht 1:1 übernommen. Kunden mit EU-Bezug können ihm aber trotzdem unterliegen | [BJ](https://www.bj.admin.ch/de/kuenstliche-intelligenz), [PCtipp](https://www.pctipp.ch/themen/news/schweizer-massnahmen-umsetzung-ki-konvention-europarats) |
 | **Bild- und Videorechte** | Für Aufnahmen von Personen braucht es eine Einwilligung (Persönlichkeitsschutz), bei Minderjährigen auch die der Eltern. Nutzungsrechte schriftlich regeln | – |
 | **Stipendien** | Falls du ein Stipendium beziehst: Prüfe die kantonalen Einkommensregeln | – |
 
 ---
 
-## 12. Quellen
+## 13. Quellen
 
 **Schweizer Markt & KMU**
 - AXA KMU-Arbeitsmarktstudie 2026: https://www.axa.ch/de/ueber-axa/medien/medienmitteilungen/aktuelle-medienmitteilungen/2026/20260915-kmu-arbeitsmarktstudie-kuenstliche-intelligenz.html
@@ -445,6 +518,8 @@ Du hast denselben Ansprechpartner (Inhaber, HR, Berufsbildner:in). Als natürlic
 - Netzwoche, KMU unsichtbar in KI-Antworten: https://www.netzwoche.ch/news/2026-09-29/schweizer-kmus-bleiben-in-ki-antworten-oft-unsichtbar
 - GEO-Survey (arXiv): https://arxiv.org/pdf/2607.14035 · PPC Land: https://ppc.land/survey-of-45-studies-finds-geo-rewrites-can-cut-a-pages-ai-retrieval-16/
 - Moneycab, localsearch: https://www.moneycab.com/?p=2054061
+- iSCM-Umfrage IT-Dienstleister (DE): https://www.channelpartner.de/article/4125258/mit-diesen-it-themen-wollen-sich-kunden-2026-beschaftigen.html
+- PlattformJ, Pneuwechsel-Saison: https://www.plattformj.ch/artikel/185142/
 
 **Lehrstellen & Recruiting**
 - SBFI-Medienmitteilung 2026: https://www.sbfi.admin.ch/de/newnsb/-ZsoLEvnmoRC-8hAKjy6G
@@ -456,6 +531,11 @@ Du hast denselben Ansprechpartner (Inhaber, HR, Berufsbildner:in). Als natürlic
 - JAMESfocus 2025 (ZHAW): https://www.zhaw.ch/storage/hochschule/medien/news/2025/250702_MM_JamesFocus/MM_JAMESfocus_Soziale_Netzwerke_2025_DE.pdf
 - Horizont, Jaisli-Xamax: https://www.horizont.net/schweiz/nachrichten/serviceplan-suisse-fuer-jaisli-xamax-ag-zweite-staffel-der-erfolgreichen-employer-branding-serie-auf-tiktok-195541
 - Südostschweiz, Lernende auf TikTok: https://www.suedostschweiz.ch/leben-freizeit/gesucht-lernende-die-ihren-beruf-auf-tiktok-und-instagram-zeigen-885978
+
+**Kundengewinnung ohne Netzwerk**
+- Prospeo, personalisierte vs. generische Ansprache: https://prospeo.io/s/ai-cold-outreach
+- Junior Enterprises Schweiz (Studyond): https://studyond.com/insights/student-consulting-with-impact-je-switzerland/
+- Innosuisse Business Concept (UNIGE): https://www.unige.ch/sih/trainingcourses/business-courses/innosuisse-start-training-business-concept
 
 **Plattformen, Tools & Technologie**
 - Handelsverband, TikTok Shop: https://handelsverband.swiss/tiktok-shop-und-deren-bedeutung-fuer-schweizer-brands/ · https://handelsverband.swiss/news/social-media-update-juli/
@@ -497,9 +577,9 @@ Du hast denselben Ansprechpartner (Inhaber, HR, Berufsbildner:in). Als natürlic
 - AHV: https://faq.bsv.admin.ch/de/alters-und-hinterlassenenversicherung-ahv/ahv-beitragspflicht/muss-ich-auch-auf-geringfuegigen · https://ahv-iv.ch/p/1.2025.d · https://pfeffersack.ch/blog/ahv-beitraege-selbstaendige-berechnen-schweiz
 - Scheinselbständigkeit: https://magicheidi.ch/blog/scheinselbststaendigkeit-schweiz
 - Handelsregister/Buchhaltung: https://pfeffersack.ch/blog/handelsregister-einzelfirma-schweiz-pflicht · https://magicheidi.ch/de/sole-proprietor-accounting
+- Steuern Nebenerwerb: https://pfeffersack.ch/lexikon/nebenerwerb · https://www.swisslife.ch/de/private/blog/nebenberuflich-selbststaendig.html
+- UWG E-Mail-Werbung: https://www.weka.ch/themen/datenschutz-und-it-recht/datenschutz-umsetzen/article/datenschutz-newsletter-rechtssicheres-e-mail-marketing-in-der-schweiz/ · https://certified-senders.org/wp-content/uploads/2018/06/Die-Rechtslage-für-E-Mail-Marketing-in-DACH.pdf
+- UWG Werbeanrufe: https://www.seco.admin.ch/de/unerbetene-werbeanrufe · https://local.ch/de/werbeanrufe
 - revDSG: https://www.fedlex.admin.ch/eli/cc/2022/491/de
 - KI-Regulierung: https://www.bj.admin.ch/de/kuenstliche-intelligenz · https://www.pctipp.ch/themen/news/schweizer-massnahmen-umsetzung-ki-konvention-europarats
 - Wertfreigrenze: https://www.bazg.admin.ch/de/tipps-zum-weihnachtseinkauf-im-ausland
-- STL Systems AG (Firmenprofil): https://www.ostjob.ch/firma/stl-systems-ag/45005
-- Thurgau Industrieanteil (historisch): https://statistik.tg.ch/public/upload/assets/41043/2005%20Thurgau%20in%20Zahlen.pdf?fp=1
-- iSCM-Umfrage IT-Dienstleister (DE): https://www.channelpartner.de/article/4125258/mit-diesen-it-themen-wollen-sich-kunden-2026-beschaftigen.html
